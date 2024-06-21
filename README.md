@@ -2,9 +2,6 @@
 
 Bu repoda, Kodluyoruz & IBM SkillsBuild iş birliğiyle gerçekleştirilen Cyberstart programında verilen kodlama ödevleri ve program boyunca tamamlanmış eğitimlerin sertifikaları bulunmaktadır.
 
-## İçindekiler
-- [Ödevler](#)
-- [Sertifikalar](#)
 
 ## Ödevler
 Cyberstart programı süresince tamamlanan kodlama ödevleri bu bölümde yer almaktadır. Her ödev, ilgili klasörde açıklamalar ve kaynak kodlarıyla birlikte bulunmaktadır.
